@@ -1,6 +1,7 @@
 @extends( 'admin.layout.layout' )
 @section( 'content' )
 @if($role->notulen->r == true)
+<!--aaaaa-->
 <section class="content">
 	<div class="box">
 		<div class="box-header with-border">
