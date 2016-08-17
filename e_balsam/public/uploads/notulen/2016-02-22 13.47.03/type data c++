@@ -1,0 +1,32 @@
+ char
+Tipe data char  adalah tipe data berupa karakter dan memiliki jumlah bit sebanyak 8. Tipe data char biasanya digunakan untuk nama , alamat , jenis , dan lain - lain .
+Contoh :
+
+char nama , alamat , jenis kelamin ;           ------------- Penulisan yang Salah
+
+char nama , alamat , jenis_kelamin ;          ------------- Penulisan yang Benar
+
+Berdasarkan coding diatas berarti nama , alamat , dan jenis kelamin termasuk tipe data char dan dapat diproses oleh komputer .
+int
+Tipe data int adalah tipe data bilangan bulat dan memiliki jumlah bit sebanyak 16 .
+Contoh:
+
+int jumlah , a , b ;
+a=3;
+b=2;
+jumlah=a+b;
+cout<<jumlah;Variable diatas telah diberi tipe data , sehingga variabel - variabel tersebut mampu diproses dalam bentuk bilangan bulat oleh komputer.
+float
+Tipe data float adalah tipe data bilangan pecahan ( pecahan persisi tunggal ) dan memiliki jumlah bit sebanyak 32.
+Contoh:
+
+int jumlah , banyak_data;
+float rata_rata;
+jumlah=30;
+banyak_data=3;
+rata_rata= jumlah / banyak_data;
+cout<<rata_rata;
+double 
+Tipe data double adalah tipe data bilangan pecahan ( pecahan  persisi ganda ) dan memiliki jumlah bit sebanyak 64.
+void
+Tipe data void adalah tipe data yang tidak memiliki tipe dan memiliki jumlah bit sebanyak 0.
